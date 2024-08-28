@@ -1878,11 +1878,6 @@ CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 
 China中国,#genre#
-以下频道,https://gitcode.net/ygbh66/test/-/raw/master/wzyl.mp4
-请在设置里,https://gitcode.net/ygbh66/test/-/raw/master/wzyl.mp4
-偏好设置里,https://gitcode.net/ygbh66/test/-/raw/master/wzyl.mp4
-打开玩转原力,https://gitcode.net/ygbh66/test/-/raw/master/wzyl.mp4
-即可观看,https://gitcode.net/ygbh66/test/-/raw/master/wzyl.mp4
 CCTV-1 ,p3p://108.181.32.169:32739/64260c74000c73e9edfa2a0e354364a8
 CCTV-2 ,p3p://108.181.32.169:32739/64260c83000b5f74edfa64604fe67a12
 CCTV-3 ,p3p://108.181.32.169:32739/64260c9b0000ca3dedfabf6a10b00144
@@ -1922,12 +1917,6 @@ CCTV-15,p3p://108.181.32.169:32739/64260e5a000a63ffee0193f872fa5767
 广东综艺,p3p://108.181.32.169:32739/642610b9000df973ee0ad7f9779b6483
 广东国际,p3p://108.181.32.169:32739/642610c3000df7f5ee0aff0975881941
 News新闻,#genre#
-以下频道,https://gitcode.net/ygbh66/test/-/raw/master/wzyl.mp4
-请在设置里,https://gitcode.net/ygbh66/test/-/raw/master/wzyl.mp4
-偏好设置里,https://gitcode.net/ygbh66/test/-/raw/master/wzyl.mp4
-打开玩转原力,https://gitcode.net/ygbh66/test/-/raw/master/wzyl.mp4
-即可观看,https://gitcode.net/ygbh66/test/-/raw/master/wzyl.mp4
-
 凤凰中文,p3p://108.181.32.169:32739/6410229e000655dd98612e41401e3e7d
 凤凰资讯,p3p://108.181.32.169:32739/641022be000e5cc69861ad4f5a025336
 凤凰香港台,p3p://108.181.32.169:32739/641022da0005d3069862188000a64525
@@ -1972,12 +1961,6 @@ NEWS 12 WESTCHESTER,p3p://108.181.32.169:32739/6465ac0a00093bd1e67ff8404bce63ed
 NEWSY,p3p://108.181.32.169:32739/6465ac1c0003cbc0e6803d2b05391318
 ESPN News USA1 HD,p3p://108.181.32.169:32739/645fab270000a005cf0cb97041394996
 TW,#genre#
-以下频道,https://gitcode.net/ygbh66/test/-/raw/master/wzyl.mp4
-请在设置里,https://gitcode.net/ygbh66/test/-/raw/master/wzyl.mp4
-偏好设置里,https://gitcode.net/ygbh66/test/-/raw/master/wzyl.mp4
-打开玩转原力,https://gitcode.net/ygbh66/test/-/raw/master/wzyl.mp4
-即可观看,https://gitcode.net/ygbh66/test/-/raw/master/wzyl.mp4
-
 民视 ,p3p://108.181.32.169:32739/64251dd200003544ea55fe1c5eb00e42
 民视(b) ,p3p://108.181.32.169:32739/6442f24f00097e845edb5e492842265c
 民视新闻台 ,p3p://108.181.32.169:32739/64c859e10007934267f487ac0fa618e0
@@ -2076,12 +2059,6 @@ FOX NEWS my,p3p://108.181.32.169:32739/6413818e000154fca58c067b60210765
 BBC News HD,p3p://108.181.32.169:32739/641384e7000133cda5991a1b33cb3ea0
 DW HD,p3p://108.181.32.169:32739/641384f6000cbd09a59957a77daa41a1
 HongKong,#genre#
-以下频道,https://gitcode.net/ygbh66/test/-/raw/master/wzyl.mp4
-请在设置里,https://gitcode.net/ygbh66/test/-/raw/master/wzyl.mp4
-偏好设置里,https://gitcode.net/ygbh66/test/-/raw/master/wzyl.mp4
-打开玩转原力,https://gitcode.net/ygbh66/test/-/raw/master/wzyl.mp4
-即可观看,https://gitcode.net/ygbh66/test/-/raw/master/wzyl.mp4
-
 TVB翡翠台,p3p://108.181.32.169:32739/641009ee000871369800bf4762e35621
 TVB翡翠台(b),p3p://108.181.32.169:32739/6410094a000234c597fe3d0e63905877
 TVB翡翠台MY,p3p://108.181.32.169:32739/64100a0b000cbbda980131a946a90bc0
