@@ -1,5 +1,7 @@
 🌙月光宝盒,#genre#
-華視,rtmp://f13h.mine.nu/sat/tv111
+为防失联,rtmp://f13h.mine.nu/sat/tv111
+公众号,rtmp://f13h.mine.nu/sat/tv091
+宝盒视界,rtmp://f13h.mine.nu/sat/tv111
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,rtmp://f13h.mine.nu/sat/tv071
 民視,rtmp://f13h.mine.nu/sat/tv051
